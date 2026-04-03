@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://du3h1hwfbpbec"]
+
+[ext_resource type="PackedScene" uid="uid://dvhu71qugp05e" path="res://characters/demon.tscn" id="1_62w18"]
+
+[node name="World" type="Node2D" unique_id=1168259802]
+
+[node name="Demon" parent="." unique_id=870759612 instance=ExtResource("1_62w18")]
